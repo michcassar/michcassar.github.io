@@ -22,14 +22,14 @@ html, body {
 
 @font-face {
   font-family: 'CustomFont1';
-   src: url('..michcassar.github.io/PPMondwest-Regular.otf') format('truetype');
+   src: url('https://github.com/michcassar/michcassar.github.io/blob/main/PPMondwest-Regular.otf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CustomFont2';
-  src: url('..michcassar.github.io/HelveticaNeueMedium.otf') format('truetype');
+  src: url('https://github.com/michcassar/michcassar.github.io/blob/main/HelveticaNeueMedium.otf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
