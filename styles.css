@@ -22,14 +22,14 @@ html, body {
 
 @font-face {
   font-family: 'CustomFont1';
-  src: url('fonts/PPMondwest-Regular.otf') format('truetype');
+  src: url('PPMondwest-Regular.otf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CustomFont2';
-  src: url('fonts/HelveticaNeueMedium.otf') format('truetype');
+  src: url('HelveticaNeueMedium.otf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
